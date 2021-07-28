@@ -3,7 +3,7 @@ img {
     height: 100%;
     max-width: 30.701rem;
     max-height: 24.964rem;
-    object-fit: cover;
+    object-fit: scale-down;
     object-position: bottom;
 }
 
